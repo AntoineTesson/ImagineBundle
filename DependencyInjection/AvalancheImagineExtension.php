@@ -56,6 +56,6 @@ class SkiesImagineExtension extends Extension
      */
     function getAlias()
     {
-        return 'Skies_imagine';
+        return 'skies_imagine';
     }
 }
