@@ -25,7 +25,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"Skies\\Bundle\\ImagineBundle" : ""
+			"Skies\\Bundle\\ImagineBundle\\" : ""
 		}
 	},
 	"minimum-stability" : "stable"
